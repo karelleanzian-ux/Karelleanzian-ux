@@ -20,7 +20,7 @@ I'm passionate about turning simple ideas into clean, beautiful, and functional 
 - Advanced Excel sheets (Formulas, Tables, Invoices)
 
 🎨 **Creative Design**
-- Simple & dynamic video editing (CapCut)
+- Simple & dynamic video editing (CapCut)  
 - Posters & social media visuals
 
 ### 🛠️ Tech Stack
